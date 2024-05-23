@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaik Jeelan</h1>
-<h3 align="center">passionate to Work on Software Developer</h3>
+<h3 align="center">Passionate to Work on Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaik-jeelan-641&label=Profile%20views&color=0e75b6&style=flat" alt="shaik-jeelan-641" /> </p>
 
