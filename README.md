@@ -31,10 +31,10 @@
 
 
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaik-jeelan-641&" alt="shaik-jeelan-641"/></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaik-jeelan-641&show_icons=true&locale=en" alt="shaik-jeelan-641" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaik-jeelan-641&" alt="shaik-jeelan-641" /></p>
+
 
